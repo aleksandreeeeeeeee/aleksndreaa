@@ -7,21 +7,17 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
-    <title>Favicon</title>
+    <title>Frontend Mentor</title>
     <style>
          body {
             background-color: hsl(220, 15%, 55%);
-
-        }
-
-
-        .child-container {
+         }
+            .child-container {
             display: flex;
             flex-wrap: wrap;
             align-items: center;
             position: relative;
             word-wrap: initial;
-
             background-color: hsl(0, 0%, 100%);
             border: 1px solid white;
             margin: 10% auto 0 auto;
@@ -30,9 +26,7 @@
             box-sizing: border-box;
             box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         }
-
-
-        img {
+            img {
             display: inline-block;
             position: relative;
             max-width: 100%;
@@ -41,14 +35,8 @@
             object-fit: cover;
             border-radius: 13px;
             margin: 0 auto;
-
-
-
-
-
-        }
-
-        .child-container h1 {
+           }
+            .child-container h1 {
             display: inline-block;
             box-sizing: border-box;
             font-size: 20px;
@@ -58,8 +46,7 @@
             font-style: normal;
             padding: 20px;
         }
-
-        p {
+            p {
             display: inline-block;
             margin-top: -40px;
             box-sizing: border-box;
@@ -70,18 +57,15 @@
             padding: 15px;
             opacity: 0.7;
         }
-
-        @media (min-width:375px) {
-            .child-container {
+             @media (min-width:375px) {
+                .child-container {
                 width: 290px;
-            }
-
-        }
+                }
+             }
     </style>
 </head>
 
 <body>
-
     <div class="child-container">
         <img src="https://www.frontendmentor.io/solutions/frontend-mentor-JcBa9Ku6Lu" alt="QR code">
         <h1>Improve your front-end skills by building projects</h1>
