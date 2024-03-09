@@ -64,7 +64,6 @@
              }
     </style>
 </head>
-
 <body>
     <div class="child-container">
         <img src="https://www.frontendmentor.io/solutions/frontend-mentor-JcBa9Ku6Lu" alt="QR code">
@@ -72,5 +71,4 @@
         <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
     </div>
 </body>
-
 </html>
